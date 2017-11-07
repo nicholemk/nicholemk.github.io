@@ -12,9 +12,24 @@ a:visited {
 }
 
 a:hover {
-    color: darkblue;
+    color: darkslateblue;
 }
 
 a:active {
-    color: darkblue;
+    color: darkslateblue;
+}
+
+.phoebe {
+    width: 450px;
+    height: 600px;
+    display: block;
+    margin: auto;
+}
+
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+}
+
+h3, h4, h5, p {
+    font-family: 'Roboto Condensed', sans-serif;
 }
