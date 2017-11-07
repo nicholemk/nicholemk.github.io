@@ -1,5 +1,5 @@
 body {
-    background-image: url("hypnotize.jpg.htm");
+    background-color: lightgrey;
 }
 
 a:link {
@@ -26,10 +26,10 @@ a:active {
     margin: auto;
 }
 
-h1, h2 {
-    font-family: "Roboto", sans-serif;
-}
-
-h3, h4, h5, p {
-    font-family: 'Roboto Condensed', sans-serif;
-}
+/*h1, h2 {*/
+    /*font-family: 'Open Sans', sans-serif;*/
+/*}*/
+/**/
+/*h3, h4, h5, p, li {*/
+    /*font-family: 'Roboto Condensed', sans-serif;*/
+/*}*/
