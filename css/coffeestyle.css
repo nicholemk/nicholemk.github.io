@@ -20,3 +20,19 @@
 
 
 
+a:link {
+    color: black;
+    text-underline: 1px solid black;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    color: darkslateblue;
+}
+
+a:active {
+    color: darkslateblue;
+}
